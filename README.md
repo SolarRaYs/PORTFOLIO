@@ -7,6 +7,7 @@ I AM FRESHER<br>I AM STUDYING PYTHON LANGUAGE<br>I LOVE READING...<br>I LOVE EXP
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayathri-hn-751533362/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solarrays1@proton.me) 
+
 # EDUCATION QUALIFICATION
 
 
@@ -36,18 +37,23 @@ I AM FRESHER<br>I AM STUDYING PYTHON LANGUAGE<br>I LOVE READING...<br>I LOVE EXP
 # ACADEMIC PROJECTS
 
 
-●     **DIPLOMA** **FINAL YEAR PROJECT**
+# ** Diploma Final Year Project **
 
-THREE LEVEL DIODE CLAMPED MULTILEVEL INVERTER
+•	Three Level Diode Clamped Multilevel Inverter 
+To make an AC supply from DC with LEVEL THREE Harmonic in the final output waveform. 
 
+•	Hardware Fabrication of 3 Level Inverter with DIODE CLAMPED MULTILEVEL Inverter.
 Learning Outcome: level three harmonics is reduced in output waveform
 
-●   **B.E FINAL YEAR PROJECT**
+#  ** B.E Final Year Project **
+•	Cascaded H-Bridge Multi-Level Inverter Using Microcontroller
+To make an AC supply from DC with Elimination Selective Harmonic in the final output waveform.
+ 
+•	MATLAB Simulation of 5 Level Inverter. 
 
- CASCADED H-BRIDGE MULTI-LEVEL INVERTER USING MICROCONTROLLER
+•	Hardware Fabrication of 5 Level Inverter with Cascaded H-Bridge Inverter. 
 
- Learning Outcome: reduction of harmonics in level 5 multilevel inverter
-
+Learning Outcome: reduction of harmonics in level 5 multilevel inverter
 ---
 
 # PROJECTS
