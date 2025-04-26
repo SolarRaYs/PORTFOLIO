@@ -1,5 +1,6 @@
 # PORTFOLIO
 
+
 # EDUCATION QUALIFICATION
 
 
@@ -22,11 +23,11 @@
 | EDUCATION   |                                 |
 | ----------- | ------------------------------- |
 | DEGREE      | SSLC                            |
-| SCHOOL NAME | CITIZENS' HIGH SCHOOL , HOSKOTE |
+| SCHOOL NAME | CITIZENS HIGH SCHOOL , HOSKOTE |
 | PERCENTAGE  | 69.12 %                         |
 
 ----
-# PROJECT
+# ACADEMIC PROJECTS
 
 
 ●     **DIPLOMA** **FINAL YEAR PROJECT**
@@ -71,10 +72,9 @@ Learning Outcome: level three harmonics is reduced in output waveform
 
 # PERSONAL DETAILS
 
-| ·        Gender<br><br>·        Nationality<br><br>·        Marital Status | : Female<br><br>: Indian<br><br>: Single |
-| ---- | ---- |
-|·        Blood Group<br><br> |: B+ve <br> 
-|.        Languages Known<br><br> | .English<br> .Telugu<br> .Kannada<br> .Tamil<br> |
-| ·        Hobbies<br> | : Listeningmusic<br>, Gardening<br>. Reading novels<br>
-| ·        Location<br><br> | : Bangalore<br><br> |
-| ·        Pin code<br><br> | : 526114<br><br> |
+| --------------- | --------------------------------------- |
+| GENDER          | FEMALE                                  |
+| MARITAL STATUS  | SINGLE                                  |
+| BLOOD  GROUP    | B+VE                                    |
+| LANGUAGES KNOWN | ENGLISH , KANNADA, TAMIL, TELUGU, HINDI |
+| LOCATION        | BENGALURU                               |
