@@ -50,11 +50,11 @@ Learning Outcome: level three harmonics is reduced in output waveform
 
 ![adptability](images/adptability.png)
 
-![creating thinking](images/creating_thinking.jpg)
+![creating thinking](images/creating_thinking.png)
 
-![problem sloving](images/problem_sloving.jpg)
+![problem sloving](images/problem_sloving.png)
 
-![self management](images/self_management.jpg)
+![self management](images/self_management.png)
 
 
 
