@@ -5,7 +5,7 @@ I AM FRESHER<br>I AM STUDYING PYTHON LANGUAGE<br>I LOVE READING...<br>I LOVE EXP
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/GAYATHRI HN](https://www.linkedin.com/in/gayathri-hn-751533362/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayathri-hn-751533362/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solarrays1@proton.me) 
 
 # EDUCATION QUALIFICATION
