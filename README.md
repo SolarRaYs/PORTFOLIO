@@ -1,5 +1,11 @@
 # PORTFOLIO
 
+# 💫 About Me:
+I AM FRESHER<br>I AM STUDYING PYTHON LANGUAGE<br>I LOVE READING...<br>I LOVE EXPLORING...
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GAYATHRI HN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solarrays1@proton.me) 
 
 # EDUCATION QUALIFICATION
 
@@ -79,3 +85,12 @@ Learning Outcome: level three harmonics is reduced in output waveform
 | Languages Known    | English, Kannada, Tamil, Telugu, Hindi     |
 | Location           | Bengaluru                                  |
 
+# 💫 About Me:
+I AM FRESHER<br>I AM STUDYING PYTHON LANGUAGE<br>I LOVE READING...<br>I LOVE EXPLORING...
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GAYATHRI HN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solarrays1@proton.me) 
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
