@@ -78,3 +78,4 @@ Learning Outcome: level three harmonics is reduced in output waveform
 | BLOOD  GROUP    | B+VE                                    |
 | LANGUAGES KNOWN | ENGLISH , KANNADA, TAMIL, TELUGU, HINDI |
 | LOCATION        | BENGALURU                               |
+---
