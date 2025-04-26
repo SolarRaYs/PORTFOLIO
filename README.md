@@ -48,18 +48,20 @@ Learning Outcome: level three harmonics is reduced in output waveform
 
 ## SKILLS
 
-<img src="Pasted image 20240822151422.png" alt="Skill 1" width="120"><br>
+![adptability](images/adptability.png)
+![My Image 2](images/image2.jpg)
+
+<img src="adptability.png" alt="Skill 1" width="120"><br>
 
 
-<img src="Pasted image 20240822151508.png" alt="Skill 2" width="120"><br>
+<img src="creative_thinking.png" alt="Skill 2" width="120"><br>
 
 
-<img src="Pasted image 20240822151555.png" alt="Skill 3" width="120"><br>
+<img src="problem_sloving.png" alt="Skill 3" width="120"><br>
 
 
-<img src="Pasted image 20240822151635.png" alt="Skill 4" width="120"><br>
+<img src="self_management.png" alt="Skill 4" width="120"><br>
 
-<img src="Pasted image 20240822151716.png" alt="Skill 5" width="120"><br>
 
 
 
