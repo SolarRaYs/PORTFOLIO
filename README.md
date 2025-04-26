@@ -71,11 +71,11 @@ Learning Outcome: level three harmonics is reduced in output waveform
 
 
 # PERSONAL DETAILS
+| **Field**          | **Details**                                |
+|--------------------|--------------------------------------------|
+| Gender             | Female                                     |
+| Marital Status     | Single                                     |
+| Blood Group        | B+ve                                       |
+| Languages Known    | English, Kannada, Tamil, Telugu, Hindi     |
+| Location           | Bengaluru                                  |
 
-| --------------- | --------------------------------------- |
-| GENDER          | FEMALE                                  |
-| MARITAL STATUS  | SINGLE                                  |
-| BLOOD  GROUP    | B+VE                                    |
-| LANGUAGES KNOWN | ENGLISH , KANNADA, TAMIL, TELUGU, HINDI |
-| LOCATION        | BENGALURU                               |
----
