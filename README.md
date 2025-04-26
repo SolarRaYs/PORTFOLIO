@@ -48,12 +48,13 @@ Learning Outcome: level three harmonics is reduced in output waveform
 #  ** B.E Final Year Project **
 •	Cascaded H-Bridge Multi-Level Inverter Using Microcontroller
 To make an AC supply from DC with Elimination Selective Harmonic in the final output waveform.
- 
+
 •	MATLAB Simulation of 5 Level Inverter. 
 
 •	Hardware Fabrication of 5 Level Inverter with Cascaded H-Bridge Inverter. 
 
 Learning Outcome: reduction of harmonics in level 5 multilevel inverter
+
 ---
 
 # PROJECTS
@@ -75,6 +76,8 @@ Learning Outcome: reduction of harmonics in level 5 multilevel inverter
 - [Port Number Script](projects/bash_scripts/port_number.sh)
 - [SubNet Mask ans Gateway](projects/bash_scripts/SUBNET_MASK&GATEWAY.md)
 
+---
+
 # SKILLS & HOBBIES
 
 ## SKILLS
@@ -87,7 +90,7 @@ Learning Outcome: reduction of harmonics in level 5 multilevel inverter
 
 ![self management](images/self_management.png)
 
-
+---
 
 ## HOBBIES
 
@@ -101,6 +104,7 @@ Learning Outcome: reduction of harmonics in level 5 multilevel inverter
 
 ![cooking](images/cooking.jpg)
 
+---
 
 # PERSONAL DETAILS
 
@@ -111,4 +115,3 @@ Learning Outcome: reduction of harmonics in level 5 multilevel inverter
 | Blood Group        | B+ve                                       |
 | Languages Known    | English, Kannada, Tamil, Telugu, Hindi     |
 | Location           | Bengaluru                                  |
-
