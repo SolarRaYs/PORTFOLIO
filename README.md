@@ -8,6 +8,7 @@ I AM FRESHER<br>I AM STUDYING PYTHON LANGUAGE<br>I LOVE READING...<br>I LOVE EXP
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayathri-hn-751533362/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solarrays1@proton.me) 
 
+>>>>>>> 9fea052240b28789bab676ae5fda4654fce0fa4a
 # EDUCATION QUALIFICATION
 
 
@@ -50,6 +51,26 @@ Learning Outcome: level three harmonics is reduced in output waveform
  Learning Outcome: reduction of harmonics in level 5 multilevel inverter
 
 ---
+
+# PROJECTS
+
+## Files in the `bash_scripts` Directory
+
+- [Abbreviations ZIP](projects/bash_scripts/abbreviations.zip)
+- [Create Multiple User Script](projects/bash_scripts/create_multiple_user.sh)
+- [Delete User Script](projects/bash_scripts/deluser.sh)
+- [Disallowed Links Script](projects/bash_scripts/disallowed_links.sh)
+- [Download with Wget Script](projects/bash_scripts/download_wget.sh)
+- [Email Script](projects/bash_scripts/email.sh)
+- [Hashing Algorithm Script](projects/bash_scripts/hashing_algorithum.sh)
+- [John PDF Crack Script](projects/bash_scripts/john_pdf_crack.sh)
+- [List of Hashing Algorithms Script](projects/bash_scripts/list_of_hashing_algorithum.sh)
+- [MAC Address Script](projects/bash_scripts/mac_address.sh)
+- [Password Cracking Zip PDF Script](projects/bash_scripts/passwd_crking_zip_pdf.sh)
+- [Password Cracking Zip Script](projects/bash_scripts/passwd_crking_zip.sh)
+- [Port Number Script](projects/bash_scripts/port_number.sh)
+- [SubNet Mask ans Gateway](projects/bash_scripts/SUBNET_MASK&GATEWAY.md)
+
 # SKILLS & HOBBIES
 
 ## SKILLS
@@ -78,6 +99,7 @@ Learning Outcome: level three harmonics is reduced in output waveform
 
 
 # PERSONAL DETAILS
+
 | **Field**          | **Details**                                |
 |--------------------|--------------------------------------------|
 | Gender             | Female                                     |
@@ -86,6 +108,8 @@ Learning Outcome: level three harmonics is reduced in output waveform
 | Languages Known    | English, Kannada, Tamil, Telugu, Hindi     |
 | Location           | Bengaluru                                  |
 
+<<<<<<< HEAD
+=======
 # 💫 About Me:
 I AM FRESHER<br>I AM STUDYING PYTHON LANGUAGE<br>I LOVE READING...<br>I LOVE EXPLORING...
 
@@ -95,3 +119,5 @@ I AM FRESHER<br>I AM STUDYING PYTHON LANGUAGE<br>I LOVE READING...<br>I LOVE EXP
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+>>>>>>> 9fea052240b28789bab676ae5fda4654fce0fa4a

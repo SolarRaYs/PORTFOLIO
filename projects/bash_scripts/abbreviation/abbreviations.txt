@@ -1,0 +1,605 @@
+ACPI	Advanced Configuration and Power Interface
+ADSL	Asymmetric Digital Subscriber Line
+ADSP	AppleTalk Data Stream Protocol
+AEP	Advanced Encryption Standard Encrypted Payload
+AES	Advanced Encryption Standard
+AFP	Apple Filing Protocol
+AIDS	Acquired Immune Deficiency Syndrome
+AIP	Application Insights Profiler
+AJAX	Asynchronous JavaScript and XML
+AMC	Annual Maintenance Contract
+AMD	Advanced Micro Devices
+AMIE	Associate Member of the Institution of Engineers
+ANM	Auxiliary Nurse Midwife
+ARPANET	Advanced Research Projects Agency Network
+ASCII	American Standard Code for Information Interchange
+ASIC	Application-Specific Integrated Circuit
+ASP	Active Server Pages
+AU	Audio Unit
+AURP	AppleTalk Update-Based Routing Protocol
+AVI	Audio Video Interleave
+AWS	Amazon Web Services
+AWT	Abstract Window Toolkit
+BAMS	Bachelor of Ayurvedic Medicine and Surgery
+BCA	Bachelor of Computer Applications
+BDS	Bachelor of Dental Surgery
+BHMS	Bachelor of Homeopathic Medicine and Surgery
+BIOS	Basic Input/Output System
+BLOB	Binary Large Objec
+CA	Chartered Accountant
+CAD	Computer-Aided Design
+CAT	Common Admission Test
+CBSE	Central Board of Secondary Education
+CCTV	Closed-Circuit Television
+CD	Compact Disc
+CD-R	Compact Disc-Recordable
+CD-ROM	Compact Disc Read-Only Memory
+CD-RW	Compact Disc ReWritable
+CDI	Contexts and Dependency Injection
+CDMA	Code Division Multiple Access
+CGL	Combined Graduate Level
+CGPA	Cumulative Grade Point Average
+CID	Criminal Investigation Department
+CIDR	Classless Inter-Domain Routing
+CLAT	Common Law Admission Test
+CMS	Content Management System
+CNG	Compressed Natural Gas
+CRT	Cathode Ray Tube
+CS	Computer Science
+CSE	Computer Science and Engineering
+CSMA/CD	Carrier Sense Multiple Access with Collision Detection
+CSV	Comma-Separated Values
+CV	Curriculum Vitae
+CVV	Card Verification Value
+DBA	Database Administrator
+DBMS	Database Management System
+DBSCAN	Density-Based Spatial Clustering of Applications with Noise
+DCA	Diploma in Computer Applications
+DCL	Data Control Language
+DDL	Data Definition Language
+DDoS	Distributed Denial-of-Service
+DDR	Double Data Rate
+DDR-RAM	Double Data Rate Random Access Memory
+DDR-SDRAM	Double Data Rate Synchronous Dynamic Random Access Memory
+DES	Data Encryption Standard
+DHCP	Dynamic Host Configuration Protocol
+DML	Data Manipulation Language
+DNA	Deoxyribonucleic Acid
+DOS	Disk Operating System
+DPI	Dots Per Inch
+DRAM	Dynamic Random Access Memory
+DRDA	Distributed Relational Database Architecture
+DTD	Document Type Definition
+DTDC	Desk to Desk Courier
+DVD	Digital Versatile Disc
+DVD-R	DVD Recordable
+DVD-RAM	DVD Random Access Memory
+DVD-ROM	DVD Read-Only Memory
+DVD-RW	DVD ReWritable
+DVI	Digital Visual Interface
+ECE	Electronics and Communication Engineering
+EEPROM	Electrically Erasable Programmable Read-Only Memory
+EPROM	Erasable Programmable Read-Only Memory
+ESN	Electronic Serial Number
+EWS	Economically Weaker Section
+FAT	File Allocation Table
+FAX	Facsimile
+FCFS Scheduling	First-Come, First-Served Scheduling
+FDD	Floppy Disk Drive
+FDDI	Fiber Distributed Data Interface
+FIFO	First In, First Out
+FIR	First Information Report
+FMCG	Fast-Moving Consumer Goods
+FORTRAN	Formula Translation
+FPGA	Field-Programmable Gate Array
+FTP	File Transfer Protocol
+FTTP	Fiber to the Premises
+GIF	Graphics Interchange Format
+GPF	General Provident Fund
+GPRS	General Packet Radio Service
+GPS	Global Positioning System
+GRE	Graduate Record Examination
+GSM	Global System for Mobile Communications
+GST	Goods and Services Tax
+GUI	Graphical User Interface
+HDD	Hard Disk Drive
+HDFC	Housing Development Finance Corporation
+HDMI	High-Definition Multimedia Interface
+HP	Hewlett-Packard
+HRRN	Highest Response Ratio Next
+HSC	Higher Secondary Certificate
+HTTP	Hypertext Transfer Protocol
+HTTPS	Hypertext Transfer Protocol Secure
+HVAC	Heating, Ventilation, and Air Conditioning
+ICICI	Industrial Credit and Investment Corporation of India
+ICT	Information and Communication Technology
+IDE	Integrated Development Environment
+IEEE	Institute of Electrical and Electronics Engineers
+IFSC	Indian Financial System Code
+IIS	Internet Information Services
+IMA	Indian Military Academy
+IMO	In My Opinion
+INR	Indian Rupee
+HSDPA	High Speed Downlink Packet Access
+RAT	Remote Administration Tool
+IPC	Interprocess communication 
+IPCONFIG	Internet Protocol Configuration
+IPP	Internet Printing Protocol
+IPSec	Internet Protocol Security
+IRDP	Internet Router Discovery Protocol
+IRS	Indian Revenue Service
+IRTF	Internet Research Task Force
+ISO	International Organization for Standardization
+ISP	Internet Service Provider
+ISRO	Indian Space Research Organisation
+IT	Information Technology
+JEE	Joint Entrance Examination
+JPEG	Joint Photographic Experts Group
+JRE	Java Runtime Environment
+JSX	JavaScript XML
+KYC	Know Your Customer
+L2TP	Layer 2 Tunneling Protocol
+LAN	Local Area Network
+LASER	Light Amplification by Stimulated Emission of Radiation
+LCD	Liquid Crystal Display
+LDAP	Lightweight Directory Access Protocol
+LED	Light-Emitting Diode
+LFU	Least Frequently Used
+LIFO	Last In, First Out
+LINUX	Linux is not an acronym; it is a free and open-source operating system
+LMP	Link Management Protocol
+LRTF	Longest Remaining Time First
+LRU	Least Recently Used
+MAC	Media Access Control
+MAN	Metropolitan Area Network
+MANET	Mobile Ad-Hoc Network
+MBBS	Bachelor of Medicine, Bachelor of Surgery
+MC	Master of Ceremonies
+MCB	Miniature Circuit Breaker
+MD	Doctor of Medicine
+MIS	Management Information System
+MLA	Member of Legislative Assembly
+MMS	Multimedia Messaging Service
+MNC	Multinational Corporation
+MRI	Magnetic Resonance Imaging
+MS	Master of Surgery
+MSConfig	Microsoft System Configuration Utility
+NASA	National Aeronautics and Space Administration
+NBP	Not Applicable (NBP does not have a specific full form)
+NEFT	National Electronic Funds Transfer
+NIC	National Informatics Centre
+NNTP	Network News Transfer Protocol
+NRI	Non-Resident Indian
+NSS	National Service Scheme
+NTFS	New Technology File System
+ODBC	Open Database Connectivity
+ODBMS	Object-Oriented Database Management System
+ODBS	Object-Oriented Database System
+OLAP	Online Analytical Processing
+OLTP	Online Transaction Processing
+OMR	Optical Mark Recognition
+ONGC	Oil and Natural Gas Corporation
+OPD	Outpatient Department
+OSI	Open Systems Interconnection
+OSI Model	Open Systems Interconnection Model
+OTG	On-The-Go (USB On-The-Go)
+PAN	Permanent Account Number
+PATA	Parallel Advanced Technology Attachment
+PCB	Printed Circuit Board
+PCO	Public Call Office
+PDF	Portable Document Format
+PCI	Peripheral Component Interconnect
+PGDM	Post Graduate Diploma in Management
+pH	Potential of Hydrogen
+PhD	Doctor of Philosophy
+PNG	Portable Network Graphics
+PnP	Plug and Play
+POP	Post Office Protocol
+PGDM	Post Graduate Diploma in Management
+PPP	Point-to-Point Protocol
+PPTP	Point-to-Point Tunneling Protocol
+PROM	Programmable Read-Only Memory
+PS	Postscript
+PVC	Polyvinyl Chloride
+PWD	Public Works Department
+RAC	Reservation Against Cancellation
+RADAR	Radio Detection and Ranging
+RAG	Random Access Generator
+RAID	Redundant Array of Independent Disks
+RAM	Random Access Memory
+RAW	Research and Analysis Wing
+RDBMS	Relational Database Management System
+RDX	Research Department Explosive
+RFID	Radio Frequency Identification
+RJ	Registered Jack
+ROM	Read-Only Memory
+RPC	Remote Procedure Call
+rpm	Revolutions Per Minute
+RSA	Rivest-Shamir-Adleman (cryptographic algorithm)
+RTI	Right to Information
+RTMP	Real-Time Messaging Protocol
+RTO	Regional Transport Office
+SAARC	South Asian Association for Regional Cooperation
+SAP	Systems, Applications, and Products
+SAS	Statistical Analysis System
+SATA	Serial Advanced Technology Attachment
+SBI	State Bank of India
+SCTP	Stream Control Transmission Protocol
+SDH	Synchronous Digital Hierarchy
+SDM	Sub-Divisional Officer
+SDRAM	Synchronous Dynamic Random Access Memory
+SECC	Socio-Economic and Caste Census
+SGML	Standard Generalized Markup Language
+SGRAM	Synchronous Graphics Random Access Memory
+SIM	Subscriber Identity Module
+SJF	Shortest Job First
+SLIP	Serial Line Internet Protocol
+SMPS	Switched Mode Power Supply
+SNMP	Simple Network Management Protocol
+SPARC	Scalable Processor Architecture
+SQL	Structured Query Language
+SRAM	Static Random Access Memory
+SRTP	Secure Real-time Transport Protocol
+SSD	Solid State Drive
+SSID	Service Set Identifier
+SSL	Secure Sockets Layer
+SSTF	Shortest Seek Time First
+SAARC	South Asian Association for Regional Cooperation
+SAP	Systems, Applications, and Products
+SAS	Statistical Analysis System
+SATA	Serial Advanced Technology Attachment
+SBI	State Bank of India
+SCTP	Stream Control Transmission Protocol
+SDH	Synchronous Digital Hierarchy
+SDM	Software Development Manager
+SDRAM	Synchronous Dynamic Random Access Memory
+SECC	Socio-Economic and Caste Census
+SGML	Standard Generalized Markup Language
+SGRAM	Synchronous Graphics Random Access Memory
+SIM	Subscriber Identity Module
+SJF	Shortest Job First
+SLIP	Serial Line Internet Protocol
+SMPS	Switched Mode Power Supply
+SMS	Short Message Service
+TA	Travelling Allowance
+DA	Dearness Allowance
+TDS	Tax Deducted at Source
+UDP	User Datagram Protocol
+UEFI	Unified Extensible Firmware Interface
+UNIX	Uniplexed Information and Computing Service
+UPI	Unified Payments Interface
+UPS	Uninterruptible Power Supply
+URI	Uniform Resource Identifier
+USB	Universal Serial Bus
+VCD	Video Compact Disc
+VGA	Video Graphics Array
+VPI	Virtual Path Identifier
+VPN	Virtual Private Network
+VRAM	Video Random Access Memory
+W3C	World Wide Web Consortium
+WAN	Wide Area Network
+IGMP	Internet Group Management Protocol
+OTP	One Time Password
+Wi-Fi	Wireless Fidelity
+WLAN	Wireless Local Area Network
+WMI	Windows Management Instrumentation
+WP	WordPress
+WPS	Wi-Fi Protected Setup
+WSDL	Web Services Description Language
+XGA	Extended Graphics Array
+XMF	eXtensible Music Format
+XML	eXtensible Markup Language
+XSD	XML Schema Definition
+2.5G Extended Second Generation
+3GPP Third Generation Partnership project
+ACK Acknowledgment
+ADSL Asymmetric Digital Subscriber Line
+AES Advanced Encryption Standard
+AIMD Additive Increase Multiplicative
+Decrease
+AH Authentication Header
+AP Access Point
+API Application Programming Interface
+ARP Address Resolution Protocol
+AS Autonomous System
+AQM Active Queue Management
+ARQ Automatic Repeat Request
+ATM Asynchronous Transfer Mode
+BER Bit Error Rate
+BGP Border Gateway Protocol
+BSC Base Station Controller
+BSD Berkeley Software Distribution
+BTS Base Transceiver Station
+CA Certificate Authority
+CBC Cipher Block Chaining
+CBR Constant Bit Rate
+CDMA Code Division Multiple Access
+CDN Content Distribution Network
+CSMA/CD Carrier Sense Multiple Access/Collision
+Detection
+COA Care-of Address
+CRC Cyclic Redundancy Check
+CTS Clear to send
+cwnd Congestion Window
+DCCP Datagram Congestion Control Protocol
+DDoS Distributed Denial of Service
+DES Digital Encryption Standard
+DHCP Dynamic Host Configuration Protocol
+DMZ Demilitarized Zone
+DNS Domain Name System
+DSA Digital Signature Algorithm
+DupThresh Duplicate Acknowledgment Threshold
+DUPACK Duplicate Acknowledgment
+EAP Extensible Authentication Protocol
+ECN Explicit Congestion Notification
+EDGE Enhanced Data for GSM Evolution
+ETSI European Telecommunications
+Standards Institute
+FDMA Frequency Division Multiple Access
+FEC Forward Error Correction
+FTP File Transfer Protocol
+GGSN Gateway GPRS Serving Node
+GPRS General Packet Radio Service
+GSM Global System for Mobile 
+HSCSD High Speed Circuit Switch Data
+HTML Hypertext Markup Language
+HTTP Hyper Text Transfer Protocol
+ICMP Internet Control Message Protocol
+IETF Internet Engineering Task Force
+IEEE Institute of Electrical and Electronics
+Engineers
+IDS Intrusion Detection System
+IoT Internet of Things
+IP Internet Protocol
+IMAP Internet Message Access Protocol
+ISO International Standard Organization
+ISP Internet Service Provider
+IV Initialization Vector
+IXP Internet eXchange Point
+FIFO First In First Out
+LAN Local Area Network
+LLC Logical Link Control
+LPM Longest Prefix Matching
+LTE Long Term Evolution
+MAC Medium Access Control
+ Message Authentication Code
+MD5 Message Digest 5
+MIB Management Information base
+MiTM Man in the Middle
+MPEG Motion Picture Experts Group
+MPLS Multiprotocol Label Switching
+MS Mobile Station
+MSS Maximum Segment Size
+MTU Maximum Transmission Unit
+NAT Network Address Translation
+NIC Network Interface Card
+NIST National Institute of Standards and
+Technology
+NFS Network Function Virtualization
+NTP Network Time Protocol
+OSPF Open Shortest Path First
+P2P Peer-to-peer
+QoS Quality of Service
+RC5 Rivest Cipher 5
+RED Random Early Detection
+RFC Request for Comments
+RLC Radio Link Control
+RNC Radio Network Controller
+RPC Remote Procedure Call
+RSA Rivest Shamir Adleman
+RST Reset
+RTO Retransmission Timeout
+RTS Ready to send
+RTP Real Time Protocol
+RTSP Real Time Streaming Protocol
+RTT Round Trip Time
+RTTVAR Round Trip Time Variation
+SA Security Association
+SAD SA Database
+SACK Selective Acknowledgment
+SCTP Stream Control Transmission Protocol
+SDN Software Defined Networking
+SIP Session Initiation Protocol
+SGSN Serving GPRS Support Node
+SHA Secure Hash Algorithm
+SLA Service Level Agreement
+SMTP Simple Mail Transfer Protocol
+SNMP Simple Network Management Protocol
+SNR Signal to Noise Ratio
+SPD Security Policy Database
+SPI Security Parameter Index
+SRTT Smoothed Round Trip Time
+SSH Secure Shell
+SSL Secure Socket Layer
+ssthresh Slow Start Threshold
+TCAM Ternary Content Addressable Memory
+TCP Transmission Control Protocol
+TFRC TCP-Friendly Rate Control
+TLD Top Level Domain
+TLS Transport Layer Security
+ToS Type of Service
+TTL Time To Live
+UBR Unspecified Bit Rate
+UDP User Datagram Protocol
+UMTS Universal Mobile Telecommunications
+System
+VPN Virtual Private Network
+VLAN Virtual LAN
+WAN Wide Area Network
+WEP Wired Equivalent Privacy
+WCDMA Wideband Code Division Multiple
+Access
+WFQ Weighted Fair Queuing
+WLAN Wireless Local Area Network
+WPA Wireless Protected Access
+WWW World Wide Web
+VoIP Voice over Internet Protocol
+AC	Access Control
+AI	Artificial Intelligence
+AES	Advanced Encryption Standard
+APT	Advanced Persistent Threat
+APWG	Anti-Phishing Working Group
+ASV	Approved Scanning Vendor for PCI
+ATT&CK	Adversarial Tactics, Techniques and Common Knowledge
+AUP	Acceptable Use Policy
+AV	Antivirus
+AVIEN	Antivirus Information Exchange Network
+BAS	Breach and Attack Simulation
+BBP	Bug Bounty Program
+BYOD	Bring Your Own Device
+CASB	Cloud Access Security Broker
+CAPTCHA	Completely Automated Public Turing Test to Tell Computers and Humans Apart
+CEH	Certified Ethical Hacker
+CERT	Computer Emergency Response Team
+CHAP	Challenge-Handshake Authentication Protocol
+CIRT	Computer Incident Response Team
+CIS	Center for Internet Security
+CISA	Certified Information Systems Auditor/Cybersecurity and Infrastructure Security Agency
+CISM	Certified Information Systems Security Manager
+CISO	Chief Information Security Officer
+CISSP	Certified Information Systems Security Professional
+COBIT	Control Objectives for Information and Related Technologies
+CSA	Cloud Security Alliance
+CSO	Chief Security Officer
+CSP	Content Security Policy
+CTI	Cyber Threat Intelligence
+CVE	Common Vulnerabilities and Exposures
+DAST	Dynamic Application Security Testing
+DC	Domain Controller
+DLP	Data Loss Prevention
+DoS	Denial of Service
+DDoS	Distributed Denial of Service
+DNS	Domain Name System
+DRP	Disaster Recovery Plan
+EDR	Endpoint Detection & Response
+ERM	Enterprise Risk Management
+FDE	Full Disk Encryption
+FWaaS	Firewall as a Service
+GDPR	General Data Privacy Regulation
+GRC	Governance, Risk, & Compliance
+HTTPS	Hypertext Transfer Protocol Secure
+IAM	Identity and Access Management
+IBE	Identity-Based Encryption
+IDS	Intrusion Detection System
+IDPS	Intrusion Detection and Prevention System
+IoT	Internet of Things
+IPS	Intrusion Prevention System
+IRP	Incident Response Plan
+ISO	International Organization for Standardization
+ISSE	Information Systems Security Engineer
+ISSO	Information Systems Security Officer
+ISSPM	Information Systems Security Project Manager
+ITAM	IT Asset Management
+ITSM	IT Service Management
+MDR	Managed Detection and Response
+MFA	Multi-Factor Authentication
+MSP	Managed Service Provider
+MSSP	Managed Security Service Provider
+NAC	Network Access Control
+NCSA	National Cyber Security Alliance
+NGFW	Next Generation Firewall
+NIST	National Institutes of Standards and Technology
+PAOBOAU	Process Acting On Behalf Of an Authorized User
+OPSEC	Operational Security
+OSINT	Open Source intelligence
+PAM	Privileged Access Management
+PCI-DSS	Payment Card Industry Data Security Standard
+RM	Risk Management
+RMF	Risk Management Framework
+RPO	Recovery Point Objective
+RTO	Recovery Time Objective
+SA	Situational Awareness
+SASE	Secure Access Service Edge
+SD-WAN	Software Defined Wide Area Network
+SECaaS	Security as a Service
+SIEM	Security Information and Event Management
+SIM	Security Information Management
+SOAR	Security Orchestration, Automation, and Response
+SOC	Security Operations Center
+SSL	Secure Sockets Layer
+SSO	Single Sign-On
+SWG	Secure Web Gateway
+TCP	Transport Control Protocol
+TLS	Transport Layer Security
+TPRM	Third-Party Risk Management
+UDP	User Datagram Protocol
+UEBA	User and Entity Behavior Analytics
+VPN	Virtual Private Network
+WAF	Web Application Firewall
+WAP	Wireless Access Point
+WAAPaaS	Web Application and API Protection as a Service
+WPA	WiFi Protected Access
+WPS	WiFi Protected Setup
+WTLS	Wireless Transport Layer Security
+XDR	Extended Detection and Response
+ZTNA	Zero Trust Network Access
+DoS Denial of Service
+DDoS Distributed Denial of Service
+Dox Not an acronym, but a slang term meaning: To publicly identify or publish private information about (someone) especially as a form of punishment or revenge
+FUD Fully Undetectable. For eg: A FUD virus
+LEA Law Enforcement Agency
+R.A.T Remote administration tool
+SE Social Engineering
+Skid Script Kiddie
+SQLi SQL Injection
+XSS Cross Site Scripting
+AP Access Point (eg: A Wi-Fi router)
+DNS Domain Name System (For converting a URL to IP address)
+LAN Local Area Network
+MAC Media Access Control
+NAT Network Address Translation
+NIC Network Interface Card
+HTTP Hyper Text Transfer Protocol
+HTTPS Hyper Text Transfer Protocol Secure
+SSH Secure Shell, used to connect to servers remotely
+FTP File Transfer Protocol
+VM Virtual Machine
+VPS Virtual Private Sever
+VPN Virtual Private Network
+WAN Wide Area Network
+IP Internet Protocol
+ISP Internet Service Provider
+TCP Transmission Control Protocol
+URL Uniform Resource Locator/Location
+ASCII American Standard Code for Information Interchange
+API Application Programming Interface
+BIOS Basic Input Output System
+CSS Cascading Style Sheets
+Nix Unix based operating system, usually referred tohere when referring to DDoS’in
+HTML Hyper Text Markup Language
+JS JavaScript
+XML eXtensible Markup Language
+CD Compact Disk
+CDR Compact Disk Recorder
+CDRW Compact Disk Re-Writer
+CD-ROM Compact Disk: Read Only Memory
+CPU Central Processing Unit
+DDR Double Data Rate
+DRAM Dynamic Random Access Memory
+DVD Digital Versatile Disc
+FPS Frame Per Second
+FPU Floating Point Unit
+HDD Hard Disk Drive
+IC Integrated Circuit
+OEM Original Equipment Manufacturer
+PCI Peripheral Component Interconnect
+PSU Power Supply Unit
+RAID Redundant Array of Independent Disks
+RAM Random Access Memory
+ROM Read Only Memory
+SSD Solid State Drive
+UPS Uninterruptible Power Supply
+USB Universal Serial Bus
+CLI Command Line Interface
+DMCA Digital Millennium Copyright Act
+GUI Graphical User Interface
+I/O Input & Output
+KISS Keep it simple stupid
+PDF Portable Document Format
+PGP Pretty Good Privacy
+OS Operating System
+TLD Top level domain (e.g: .com, .org)
+RSS Really simple syndication
+WYSIWYG What You See Is What You Get
+PASTA Process for Attack Simulation and Threat Analysis
+DAST Provides dynamic application security testing
