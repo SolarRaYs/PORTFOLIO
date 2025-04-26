@@ -1,7 +1,5 @@
 # PORTFOLIO
 
-<img src="photo_2023-10-05_08-46-25.jpg" alt="My Picture" width="200">
-
 # EDUCATION QUALIFICATION
 
 
