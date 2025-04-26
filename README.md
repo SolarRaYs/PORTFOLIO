@@ -7,8 +7,6 @@ I AM FRESHER<br>I AM STUDYING PYTHON LANGUAGE<br>I LOVE READING...<br>I LOVE EXP
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayathri-hn-751533362/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solarrays1@proton.me) 
-
->>>>>>> 9fea052240b28789bab676ae5fda4654fce0fa4a
 # EDUCATION QUALIFICATION
 
 
@@ -108,16 +106,3 @@ Learning Outcome: level three harmonics is reduced in output waveform
 | Languages Known    | English, Kannada, Tamil, Telugu, Hindi     |
 | Location           | Bengaluru                                  |
 
-<<<<<<< HEAD
-=======
-# 💫 About Me:
-I AM FRESHER<br>I AM STUDYING PYTHON LANGUAGE<br>I LOVE READING...<br>I LOVE EXPLORING...
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GAYATHRI HN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solarrays1@proton.me) 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
->>>>>>> 9fea052240b28789bab676ae5fda4654fce0fa4a
